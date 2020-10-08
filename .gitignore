@@ -1,2 +1,4 @@
 test1.py
-gitignore.txt
+.DS_Store
+.gitgnore
+
